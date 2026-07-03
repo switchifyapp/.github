@@ -14,13 +14,14 @@ Cursor scanning, item scanning, camera-based head control, customisable scan spe
 
 ## Source code
 
-The Android app lives at [`switchifyapp/Switchify`](https://github.com/switchifyapp/Switchify), licensed under [GNU AGPL-3.0](https://github.com/switchifyapp/Switchify/blob/main/LICENSE).
+- Android app: [`switchifyapp/switchify-android`](https://github.com/switchifyapp/switchify-android)
+- PC companion app: [`switchifyapp/switchify-pc`](https://github.com/switchifyapp/switchify-pc)
 
-If you want to contribute, start with [CONTRIBUTING.md](https://github.com/switchifyapp/Switchify/blob/main/CONTRIBUTING.md) and our [Code of Conduct](https://github.com/switchifyapp/Switchify/blob/main/CODE_OF_CONDUCT.md).
+If you want to contribute, start with [CONTRIBUTING.md](https://github.com/switchifyapp/switchify-android/blob/main/CONTRIBUTING.md) and our [Code of Conduct](https://github.com/switchifyapp/switchify-android/blob/main/CODE_OF_CONDUCT.md).
 
 ## Support
 
-- App questions or bug reports: [open an issue](https://github.com/switchifyapp/Switchify/issues)
+- App questions or bug reports: [open an issue](https://github.com/switchifyapp/switchify-android/issues)
 - Commercial licensing or partnerships: <owen@switchifyapp.com>
 
 ---
