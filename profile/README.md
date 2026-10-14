@@ -22,7 +22,7 @@ If you want to contribute, start with [CONTRIBUTING.md](https://github.com/switc
 ## Support
 
 - App questions or bug reports: [open an issue](https://github.com/switchifyapp/switchify-android/issues)
-- Commercial licensing or partnerships: <owen@switchifyapp.com>
+- Commercial licensing or partnerships: <info@theswitchify.app>
 
 ---
 
